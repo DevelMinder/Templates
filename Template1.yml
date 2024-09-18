@@ -1,2 +1,3 @@
 template1-job:
-  script: echo "Template1"
+  script: 
+    echo "Template1"
