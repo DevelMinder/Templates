@@ -1,0 +1,2 @@
+template4-job:
+  script: echo "Hello"
